@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://georgederick.github.io/Conecta-Tech/"><strong>Ver demonstração ao vivo</strong></a>
+  <a href="https://rafaeldigg.github.io/conecta-tech/"><strong>Ver demonstração ao vivo</strong></a>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ O projeto não hospeda cursos próprios. Ele reúne e organiza conteúdos de out
 Não há dependências nem etapa de build.
 
 ```bash
-git clone https://github.com/georgederick/Conecta-Tech.git
+git clone https://github.com/rafaeldigg/conecta-tech.git
 cd Conecta-Tech
 ```
 
@@ -74,7 +74,4 @@ Projeto acadêmico sem fins lucrativos. Os cursos e materiais pertencem às resp
 
 ## Autor
 
-**Desenvolvido por georgederick**
-
-- GitHub: [github.com/georgederick](https://github.com/georgederick)
-- LinkedIn: [linkedin.com/in/georgederick](https://www.linkedin.com/in/georgederick/)
+**Desenvolvido por Rafael**
