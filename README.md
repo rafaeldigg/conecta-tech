@@ -65,7 +65,7 @@ Depois acesse `http://localhost:8000`.
 1. Envie o repositório para o GitHub.
 2. Em **Settings**, abra **Pages**.
 3. Em **Branch**, escolha `main` e a pasta `/ (root)`, e salve.
-4. O site fica disponível em `https://georgederick.github.io/Conecta-Tech/`.
+4. O site fica disponível em `https://rafaeldigg.github.io/conecta-tech/`.
 
 
 ## Aviso
